@@ -1,6 +1,5 @@
 // tady je místo pro náš program
-let square;
-  square = document.querySelector(".ctverecek");
+let square = document.querySelector(".ctverecek");
 
 
 function zmenaBarvy() {
